@@ -45,13 +45,10 @@
 ```
 
 
-### Use Gitpod
+### CSDN
+CSDN-addr：https://blog.csdn.net/qq_40593656
 
-Open the project in Gitpod (free online dev environment for GitHub) and start coding immediately.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ant-design/ant-design-pro)
-
-More instructions at [documentation](http://pro.ant.design/docs/getting-started).
 
 ## Browsers support
 
